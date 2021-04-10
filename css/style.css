@@ -65,7 +65,7 @@ img {
 
 header {
   background: url(../img/3round.webp) no-repeat 85% 120px,
-  url(../img/back1.jpg) no-repeat;
+  url(../img/back11.jpg) no-repeat;
   margin-bottom: 60px;
 }
 
@@ -377,7 +377,7 @@ h2 {
 
 .bonus-book {
   background: url(../img/3round.webp) no-repeat 8% 50%,
-  url(../img/back2.jpg) no-repeat;
+  url(../img/back22.jpg) no-repeat;
   margin-bottom: 60px;
 }
 
@@ -429,7 +429,7 @@ h3 {
 
 .author {
   background: url(../img/3round.webp) no-repeat 8% 50%,
-  url(../img/back1.jpg) no-repeat;
+  url(../img/back11.jpg) no-repeat;
   margin-bottom: 60px;
 }
 
@@ -536,7 +536,7 @@ h3 {
   padding: 50px 120px 50px 120px;
   margin-bottom: 100px;
   border-radius: 5px;
-  background: url(../img/back2.jpg) no-repeat;
+  background: url(../img/back22.jpg) no-repeat;
 }
 
 b {
@@ -637,7 +637,7 @@ label {
 }
 
 footer {
-  background: url(../img/back3.jpg) no-repeat;
+  background: url(../img/back33.jpg) no-repeat;
 }
 
 .course__logo {
