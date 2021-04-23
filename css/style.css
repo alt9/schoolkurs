@@ -1055,6 +1055,9 @@ footer {
   .container {
     width: 320px;
   }
+  .head-title {
+    text-align: center;
+  }
   .steps__date-time {
     background-size: 320px;
   }
@@ -1070,7 +1073,8 @@ footer {
     top: 230px;
   }
   .steps__result::after {
-    left: -7px;
+    left: 2px;
+    width: 315px;
   }
   .steps__result-p {
     left: 98px;
